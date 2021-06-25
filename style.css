@@ -41,6 +41,16 @@ font-weight: 100;}
 .box lu {
 text-align: center;}
 
+.titulo {font-size: 35px;
+color: #f0cc8e;
+text-align: center;}
+
+.info {font-size: 29px;
+color: white;
+text-align: center;}
+
+.h2 {font-size: 18px;
+color: #e9b80c}
 
 .hobbies{font-size: 26px;
 color: #ffab38  ;
@@ -55,6 +65,7 @@ text-align: center }
   color: #7ebcd7;
 text-align: center;}
 
+.images { text-align: center;}
 
 .series{font-size: 26px;
   color:#ffab38;
