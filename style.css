@@ -29,15 +29,46 @@ Body {
 .box h6 {
 font-size: 50px;
 letter-spacing: 4px;
-font-weight: 100;
-}
+font-weight: 100;}
 
 .box h3 {
   font-size: 50px;
   letter-spacing: 4px;
   font-weight: 100
-  color:
-}
+  color:}
+
+
 .box lu {
-text-align: center;  
-}
+text-align: center;}
+
+
+.hobbies{font-size: 26px;
+color: #ffab38  ;
+text-align: center }
+
+
+.texto { font-size: 20px;
+  color: #fce9ab;}
+
+
+.mipersona {font-size: 18px;
+  color: #7ebcd7;
+text-align: center;}
+
+
+.series{font-size: 26px;
+  color:#ffab38;
+  text-align: center;}
+
+
+.videogames {font-size: 26px;
+color:#ffab38;
+text-align: center;}
+
+.games {font-size: 20px;
+color:#76d84b;
+text-align: center;}
+
+.tabla {color:#fdb168;
+text-align: center;
+font-family:'Lucida Console', monospace; }
